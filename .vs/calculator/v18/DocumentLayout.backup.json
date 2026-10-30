@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "requirements.txt",
               "ToolTip": "C:\\Users\\niels\\calculator\\calculator\\requirements.txt",
               "RelativeToolTip": "requirements.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-10-30T11:48:19.406Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": ".github\\workflows\\python-app.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-10-30T11:41:15.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-30T11:41:15.509Z"
             },
             {
               "$type": "Document",
