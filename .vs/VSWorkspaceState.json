@@ -4,6 +4,6 @@
     "\\.github",
     "\\.github\\workflows"
   ],
-  "SelectedNode": "\\.github\\workflows\\python-app.yml",
+  "SelectedNode": "\\requirements.txt",
   "PreviewInSolutionExplorer": false
 }
